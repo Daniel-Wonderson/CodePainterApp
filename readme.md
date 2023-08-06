@@ -35,7 +35,8 @@ Change color
 	(RED)
 	(BLUE)
 
-7.REPEAT(times) <code> ENDREPEAT()
+7.REPEAT(times) 
+<code>  ENDREPEAT()
 	Repeats the <code> ‘times’ times
 	Example : (It will move 4 times)
 		REPEAT(4)
