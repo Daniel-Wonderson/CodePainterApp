@@ -36,7 +36,7 @@ Change color
 	(BLUE)
 
 7.REPEAT(times) <br>
-<code>  ENDREPEAT()
+<code>ENDREPEAT()
 	Repeats the <code> ‘times’ times
 	Example : (It will move 4 times)
 		REPEAT(4)
